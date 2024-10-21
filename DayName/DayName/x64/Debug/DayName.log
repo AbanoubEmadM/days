@@ -1,0 +1,3 @@
+﻿  DayName.cpp
+C:\Users\OEN\source\repos\DayName\DayName\DayName.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  DayName.vcxproj -> C:\Users\OEN\source\repos\DayName\DayName\x64\Debug\DayName.exe
